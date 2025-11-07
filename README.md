@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rodrigo Correia!
 
-🎓 I'm currently pursuing a **Bachelor in Computer Science** at *Instituto Superior Técnico*.  
-💡 Passionate about solving problems through code and exploring the world of algorithms and systems. 
-📂 Here you can find my academic projects as well as some repositories and utilities that I found useful in my day-to-day workflow.
+ I'm currently pursuing a **Bachelor in Computer Science** at *Instituto Superior Técnico*.  
+ Passionate about solving problems through code and exploring the world of algorithms and systems. 
+ Here you can find my academic projects as well as some repositories and utilities that I found useful in my day-to-day workflow.
 ---
 
 ## 📈 GitHub Stats
@@ -15,7 +15,8 @@
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/rodrigomencorreia/)  
-- 📧 Email: rodrigomcorreia22@gmail.com
+- 📧 Email: rodrigo.mendes.correia@tecnico.ulisboa.pt
+  
 
 ---
 
