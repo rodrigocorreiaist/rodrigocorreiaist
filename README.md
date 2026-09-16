@@ -3,8 +3,10 @@
 Cybersecurity M.Sc. Student at **Instituto Superior Técnico** | B.Sc. in Computer Science & Engineering  
 
 
----
-
+<!-- Dynamically rendered badge card -->
+<a href="https://tryhackme.com/p/rodrigocorreiaist">
+  <img src="https://tryhackme-stats.vercel.app/api/badge/rodrigocorreiaist" alt="TryHackMe Live Stats" />
+</a>
 
 
 
